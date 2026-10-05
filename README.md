@@ -1,4 +1,4 @@
-# Cvičení 2
+# Cvičení 3
 
 **Klonování repozitáře:**
 - Klávesa Windows + R -> cmd -> Enter
